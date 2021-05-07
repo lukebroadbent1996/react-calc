@@ -1,0 +1,20 @@
+.keypad-style{
+    display: flex;
+    height: 4em;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    background-color: #C0C0C0;
+    color: black;
+    flex: 1;
+    outline: 1px solid white;
+}
+
+.keypad-style:hover{
+    background-color: #D3D3D3;
+}
+
+.operator{
+    background-color: 	#989898;
+    color: black;
+}
